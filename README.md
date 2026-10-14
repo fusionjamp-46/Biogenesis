@@ -208,4 +208,4 @@ Biogenesis is offered as a full free version with all features and updates inclu
 Unlock the mysteries of evolution today! Download Biogenesis and take your understanding of biology to the next level!
 
 ---
-**Last updated:** 2026-10-14 00:05:36 UTC
+**Last updated:** 2026-10-14 05:44:34 UTC
